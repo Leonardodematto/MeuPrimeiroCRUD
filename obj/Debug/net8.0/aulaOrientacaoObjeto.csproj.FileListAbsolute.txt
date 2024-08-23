@@ -1,0 +1,14 @@
+c:\Users\Leona\aulaOrientacaoObjeto\bin\Debug\net8.0\aulaOrientacaoObjeto.exe
+c:\Users\Leona\aulaOrientacaoObjeto\bin\Debug\net8.0\aulaOrientacaoObjeto.deps.json
+c:\Users\Leona\aulaOrientacaoObjeto\bin\Debug\net8.0\aulaOrientacaoObjeto.runtimeconfig.json
+c:\Users\Leona\aulaOrientacaoObjeto\bin\Debug\net8.0\aulaOrientacaoObjeto.dll
+c:\Users\Leona\aulaOrientacaoObjeto\bin\Debug\net8.0\aulaOrientacaoObjeto.pdb
+c:\Users\Leona\aulaOrientacaoObjeto\obj\Debug\net8.0\aulaOrientacaoObjeto.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Leona\aulaOrientacaoObjeto\obj\Debug\net8.0\aulaOrientacaoObjeto.AssemblyInfoInputs.cache
+c:\Users\Leona\aulaOrientacaoObjeto\obj\Debug\net8.0\aulaOrientacaoObjeto.AssemblyInfo.cs
+c:\Users\Leona\aulaOrientacaoObjeto\obj\Debug\net8.0\aulaOrientacaoObjeto.csproj.CoreCompileInputs.cache
+c:\Users\Leona\aulaOrientacaoObjeto\obj\Debug\net8.0\aulaOrientacaoObjeto.dll
+c:\Users\Leona\aulaOrientacaoObjeto\obj\Debug\net8.0\refint\aulaOrientacaoObjeto.dll
+c:\Users\Leona\aulaOrientacaoObjeto\obj\Debug\net8.0\aulaOrientacaoObjeto.pdb
+c:\Users\Leona\aulaOrientacaoObjeto\obj\Debug\net8.0\aulaOrientacaoObjeto.genruntimeconfig.cache
+c:\Users\Leona\aulaOrientacaoObjeto\obj\Debug\net8.0\ref\aulaOrientacaoObjeto.dll
